@@ -13,8 +13,7 @@ Transpile the TypeScript:
 Run the server:
 <code>node build/server</code>
 
-Make some connections:
-In your Web browser Developer Tools console, add the following code:
+Make some connections. In your Web browser Developer Tools console, add the following code:
   <code>
   var socket = new WebSocket('ws://localhost:3000');
 
